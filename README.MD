@@ -256,7 +256,7 @@ This project is licensed under the MIT License – see the `LICENSE` file for de
 
 ## 📞 Contact
 
-**Project Maintainer:** Ritik
+**Project Maintainer:** Ritik singh
 GitHub: ritik5504
 LinkedIn: https://www.linkedin.com/in/ritik5504
 Email: rajritik34@gmail.com
